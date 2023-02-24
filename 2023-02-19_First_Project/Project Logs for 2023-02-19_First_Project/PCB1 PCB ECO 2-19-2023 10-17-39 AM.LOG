@@ -1,0 +1,120 @@
+Added Component: Designator=C1(CP1/2)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CP1/2)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED-5mm)
+Added Component: Designator=D2(LED-5mm)
+Added Component: Designator=D3(LED-5mm)
+Added Component: Designator=D4(LED-5mm)
+Added Component: Designator=D5(LED-5mm)
+Added Component: Designator=D6(LED-5mm)
+Added Component: Designator=D7(LED-5mm)
+Added Component: Designator=D8(LED-5mm)
+Added Component: Designator=D9(LED-5mm)
+Added Component: Designator=D10(LED-5mm)
+Added Component: Designator=IC1(DIP8/W0.3)
+Add component (AddParameter): Name = "Value"; Value = "LM555"; VariantName = "[No Variations]"
+Added Component: Designator=P1(DOMINO 2- 5mm)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DIP16/W0.3)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/cd40174be-ic-flip-flop-d-type-positive-edge-16mhz-16-dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Count Rate"; Value = "5.5 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Up"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Counter, Decade"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reset"; Value = "Asynchronous"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Timing"; Value = "Synchronous"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trigger Type"; Value = "Positive Edge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "3 V ~ 18 V"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(Varistor 1)
+Add component (AddParameter): Name = "Value"; Value = "VR 100K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Net: Name=GND
+Added Pin To Net: NetName=LED1 Pin=D1-1
+Added Pin To Net: NetName=LED1 Pin=U1-3
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=D2-1
+Added Pin To Net: NetName=LED2 Pin=U1-2
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=D3-1
+Added Pin To Net: NetName=LED3 Pin=U1-4
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=D4-1
+Added Pin To Net: NetName=LED4 Pin=U1-7
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=D5-1
+Added Pin To Net: NetName=LED5 Pin=U1-10
+Added Net: Name=LED5
+Added Pin To Net: NetName=LED6 Pin=D6-1
+Added Pin To Net: NetName=LED6 Pin=U1-1
+Added Net: Name=LED6
+Added Pin To Net: NetName=LED7 Pin=D7-1
+Added Pin To Net: NetName=LED7 Pin=U1-5
+Added Net: Name=LED7
+Added Pin To Net: NetName=LED8 Pin=D8-1
+Added Pin To Net: NetName=LED8 Pin=U1-6
+Added Net: Name=LED8
+Added Pin To Net: NetName=LED9 Pin=D9-1
+Added Pin To Net: NetName=LED9 Pin=U1-9
+Added Net: Name=LED9
+Added Pin To Net: NetName=LED10 Pin=D10-1
+Added Pin To Net: NetName=LED10 Pin=U1-11
+Added Net: Name=LED10
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-2
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-6
+Added Pin To Net: NetName=NetC2_1 Pin=VR1-3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-2
+Added Pin To Net: NetName=NetD1_2 Pin=D4-2
+Added Pin To Net: NetName=NetD1_2 Pin=D5-2
+Added Pin To Net: NetName=NetD1_2 Pin=D6-2
+Added Pin To Net: NetName=NetD1_2 Pin=D7-2
+Added Pin To Net: NetName=NetD1_2 Pin=D8-2
+Added Pin To Net: NetName=NetD1_2 Pin=D9-2
+Added Pin To Net: NetName=NetD1_2 Pin=D10-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=R3-2
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=R1-1
+Added Pin To Net: NetName=NetIC1_7 Pin=VR1-1
+Added Pin To Net: NetName=NetIC1_7 Pin=VR1-2
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-14
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=IC1-4
+Added Pin To Net: NetName=VCC Pin=IC1-8
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Net: Name=VCC
+Added Class: Name=Sheet1
